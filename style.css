@@ -1,1 +1,10 @@
+img {
+  width: 200px ;
+}
 
+body {
+  text-align: center;
+  font-family: 'Georgia';
+  background: green;
+  color: white;
+}
