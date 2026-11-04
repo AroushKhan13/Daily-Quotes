@@ -1,0 +1,8 @@
+{
+  "name": "Boba Website Environment",
+  "customizations": {
+    "codespaces": {
+      "shutdownTimeout": 2
+    }
+  }
+}
